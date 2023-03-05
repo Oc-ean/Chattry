@@ -1,16 +1,14 @@
-# simple_messaging_app
+Chattry a simple messaging app where users can create account, 
+create groups, and also join group by search, 
+users can also message their self privately..
 
-A new Flutter project.
+Chattry uses firebase as Backend to store and display users info,
+using Provider as Statemanagement..
 
-## Getting Started
+Chattry is basic and easy to use , will had new functionalities like : 
 
-This project is a starting point for a Flutter application.
+* Sending images to another user or in a group..
+* Online status..
+* notifications..
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
