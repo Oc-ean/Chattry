@@ -1,5 +1,5 @@
-Chattry a simple messaging app where users can create account, 
-create groups, and also join group by search, 
+Chattry is a simple messaging app where users can create account, 
+and also create groups, and also join group by search, 
 users can also message their self privately..
 
 Chattry uses firebase as Backend to store and display users info,
